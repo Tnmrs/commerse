@@ -22,6 +22,17 @@ body {
   font-family: raleway_f, sans-serif;
   line-height: 1.55;
 }
+
+.logo {
+  color: #e7e7e0;
+  font-weight: 700;
+  text-decoration: none;
+  font-size: 2em;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  text-shadow: 0 0 15px #9d822b;
+}
+
 .main-header {
   position: relative;
 }
